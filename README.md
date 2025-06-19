@@ -35,18 +35,6 @@ If even one developer benefits from this, it's already worth it. 😊
 
 ---
 
-## 💼 For Recruiters & Employers
-
-This repo reflects:
-
-- My hands-on practice with **core Java concepts**
-- My focus on **clean, readable code**
-- My dedication to **continuous learning** and improving problem-solving ability
-
-Looking for someone who codes not just for work, but for growth? Let’s connect. 👋
-
----
-
 ## 🚀 Getting Started
 
 To run an exercise:
